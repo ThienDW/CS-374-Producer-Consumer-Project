@@ -1,0 +1,1 @@
+Compile with gcc --std=gnu99 -o myCounter thread.c
